@@ -1,0 +1,40 @@
+body {
+    background-color: #283041; 
+    color: #eff4f5; /* Contrasting text color */
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1, h5, p, ul {
+    margin-bottom: 15px;
+}
+
+img {
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+}
+
+iframe {
+    width: 100%;
+}
+
+a {
+    color: #e74c3c;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+/* Reference
+Chatgpt */
